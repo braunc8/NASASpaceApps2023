@@ -1,3 +1,4 @@
+
 /*header style*/
 header{
     text-align: center;
@@ -50,6 +51,15 @@ h2{
     line-height: 20px;
     padding-left: 20px;
 
+}
+h4{
+    text-align: left;
+    word-spacing: 30px;
+    Padding: 10px;
+    background-color:#006994;
+    font-family: courier;
+    font-size: 150%;
+    color:aliceblue; 
 }
 
 /*paragraph style*/
