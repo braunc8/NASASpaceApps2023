@@ -25,7 +25,9 @@ nav{
     color:aliceblue; 
 }
 /*link style*/
-a{color:aliceblue; }
+a{
+    color:aliceblue;
+ background-color:#006994;}
 
 /*background colour of body*/
 main{
